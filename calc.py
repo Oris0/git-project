@@ -1,5 +1,5 @@
-x = int( input("insert first num : "))
-y =  int(input("insert second num : "))
+x = float( input("insert first num : "))
+y =  float(input("insert second num : "))
 
 results = x * y
 
